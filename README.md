@@ -1,1 +1,3 @@
-# .github
+# Bucket
+
+Bucket connects local conservation groups with kiwis and friends of New Zealand from around the world to help look after our environment. We’re currently building a fun and interactive App with a focus on protecting and restoring New Zealand's unique biodiversity. Our aim is to have hundreds of conservation groups using our platform to raise funds, so that they can do even more good in their own backyards. From increasing endangered species populations, to eradicating pests and replanting native trees and plants, Bucket will enable us to connect with others to create a better world for generations to come.
